@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack-developer<br>I am currently working on developing my AL/ML skills. 
+I am a full stack-developer<br>I am currently working on developing my AI/ML skills. 
 
 
 ## 🌐 Socials:
